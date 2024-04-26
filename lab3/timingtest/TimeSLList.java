@@ -47,8 +47,6 @@ public class TimeSLList {
             size=size*2;
         }
         printTimingTable(Ns,times,opCounts);
-
-
     }
 
 }
